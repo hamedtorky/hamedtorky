@@ -4,12 +4,12 @@ Welcome to my GitHub profile!
 I'm passionate about technology, software development, and building impactful solutions.
 
 ## 🚀 About Me
-- 💻 Full-stack developer & software engineer
+- 💻 Full-stack developer & hardware engineer
 - 🌱 Always learning new things in tech
 - 📢 Love to collaborate and share knowledge
 
 ## 🛠️ Skills
-- Programming: Python, JavaScript, TypeScript, Java
+- Programming: C/C++, Python, JavaScript, TypeScript, Verilog
 - Web: React, Node.js, Express
 - Databases: MongoDB, PostgreSQL, MySQL
 - DevOps: Docker, GitHub Actions, CI/CD
@@ -18,9 +18,9 @@ I'm passionate about technology, software development, and building impactful so
 ![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedtorky&show_icons=true&hide_title=true)
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/hamedtorky/)
+- [LinkedIn](https://www.linkedin.com/in/hamedtorki/)
 - [Twitter](https://twitter.com/hamedtorky)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:hamedtorky2@gmail.com)
 
 ---
 
