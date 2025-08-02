@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hamed Torky
+# Hi there 👋, I'm Hamed Torki
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, software development, and building impactful solutions.
